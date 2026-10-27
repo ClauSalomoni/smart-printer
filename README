@@ -1,0 +1,44 @@
+Contrato (JSON) Rota COZINHA:
+{
+  "numeroPedido": 104,
+  "numeroMesa": 12,
+  "horario": "19:45:10",
+  "nomeGarcom": "Carlos",
+  "itens": [
+    {
+      "quantidade": 2,
+      "nomePrato": "Hamburguer Artesanal",
+      "observacoes": "Sem cebola, ponto do meio"
+    },
+    {
+      "quantidade": 1,
+      "nomePrato": "Batata Frita P",
+      "observacoes": "Extra de cheddar"
+    }
+  ]
+}
+
+
+
+CONTRATO ROTA CAIXA:
+{
+  "numeroPedido": 104,
+  "numeroMesa": 12,
+  "subtotal": 85.00,
+  "taxaServico": 8.50,
+  "valorDesconto": 5.00,
+  "valorTotal": 88.50,
+  "nomeCliente": "João Silva",
+  "itens": [
+    {
+      "quantidade": 2,
+      "nomePrato": "Hamburguer Artesanal",
+      "valorPrato": 60.00
+    },
+    {
+      "quantidade": 1,
+      "nomePrato": "Batata Frita P",
+      "valorPrato": 25.00
+    }
+  ]
+}

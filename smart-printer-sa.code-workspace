@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "smart-printer-sa",
+			"path": "../../../../smart-printer-sa"
+		},
+		{
+			"name": "smart-printer",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
